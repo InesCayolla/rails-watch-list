@@ -1,0 +1,23 @@
+.card-category {
+  background-size: cover;
+  background-position: center;
+  height: 180px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(26, 23, 23);
+  font-size: 24px;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+.card-large {
+  height: 50vh;
+  max-height: 400px;
+  background-color: rgb(161, 170, 177);
+}
+
+.card-large h1 {
+  color:rgb(224, 224, 224)
+}
